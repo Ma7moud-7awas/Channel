@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Channel</string>
+    <string name="podcast">Podcast</string>
+    <string name="episode">Episode</string>
+    <string name="audiobook">Audiobook</string>
+    <string name="audio_article">Audio Article</string>
+    <string name="hour_symbol">H</string>
+    <string name="minute_symbol">M</string>
+    <string name="episodes">Episodes</string>
+    <string name="hours_ago">%1$s hours ago</string>
+    <string name="yesterday">yesterday</string>
+    <string name="day_before_yesterday">day before yesterday</string>
+    <string name="days_ago">%1$s days ago</string>
+    <string name="day_ago">@string/days_ago</string>
+</resources>

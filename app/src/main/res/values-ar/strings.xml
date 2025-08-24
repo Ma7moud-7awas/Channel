@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قناة</string>
+    <string name="podcast">البودكاست</string>
+    <string name="episode">الحلقات</string>
+    <string name="audiobook">الكتب</string>
+    <string name="audio_article">المقالات الصوتية</string>
+    <string name="hour_symbol">س</string>
+    <string name="minute_symbol">د</string>
+    <string name="episodes">حلقات</string>
+    <string name="hours_ago">قبل %1$s ساعات</string>
+    <string name="yesterday">أمس</string>
+    <string name="day_before_yesterday">أول أمس</string>
+    <string name="days_ago">منذ %1$s أيام</string>
+    <string name="day_ago">منذ %1$s يوم</string>
+</resources>
